@@ -2,7 +2,7 @@ import requests
 import sqlite3
 import datetime
 
-PLACES = [1591974778, 1591974778]
+PLACES = []
 
 
 mydb = sqlite3.connect("servers.db") 
